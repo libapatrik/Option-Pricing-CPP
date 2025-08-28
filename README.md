@@ -1,2 +1,2 @@
-C++ Project 
+Learning C++ applications to Option Pricing
 
